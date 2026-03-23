@@ -42,4 +42,4 @@ Junior Software Developer with a strong interest in backend systems, networking,
 
 ## 📫 Contact Me
 - Email: kaukamogelo01@gmail.com
-- LinkedIn: (add your link here)
+- LinkedIn: https://www.linkedin.com/in/kamogelo-kau-160829290/
